@@ -22,8 +22,8 @@
   "gridUnits": "ft",
   "primaryTokenAttribute": "",
   "secondaryTokenAttribute": "",
-  "url": "https://github.com/jeannforbes/foundry-V5/",
-  "manifest": "https://raw.githubusercontent.com/jeannforbes/foundry-V5/main/system.json",
-  "download": "https://github.com/jeannforbes/foundry-V5/archive/foundryvtt_v5_v1.8.3.zip",
+  "url": "https://github.com/jeannforbes/foundry-custom-v5/",
+  "manifest": "https://raw.githubusercontent.com/jeannforbes/foundry-custom-v5/main/system.json",
+  "download": "https://github.com/jeannforbes/foundry-custom-v5/archive/refs/heads/main.zip",
   "license": "LICENSE.txt"
 }
